@@ -34,7 +34,7 @@ let settings = {
         // --- Lembar 3 (data-page="2") ---
         { 
             image: './image/theend.jpg', // Menggantikan tbutvj.png (Index 4)
-            content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
+            content: 'Happy B’day maaaluvvvv Selamat bertambah usia yaa, sayangku Di umur kamu yang sekarang, aku cuma mau kamu selalu dikelilingi hal-hal baik. Semoga kamu makin kuat, makin dewasa, dan tetap jadi seseorang yang hatinya hangat—yang selalu aku kagumi dari kamu. Love you more than anything, always and forever' 
         }
     ],
     enableBook: true,
@@ -377,7 +377,7 @@ function initializeDefaultSettings() {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b5.png', // Menggantikan tbutvj.png (Index 4)
-                content: 'As long as you’re smiling, I’m happy. Stay happy, my love.' 
+                content: 'Happy B’day maaaluvvvv Selamat bertambah usia yaa, sayangku Di umur kamu yang sekarang, aku cuma mau kamu selalu dikelilingi hal-hal baik. Semoga kamu makin kuat, makin dewasa, dan tetap jadi seseorang yang hatinya hangat—yang selalu aku kagumi dari kamu. Love you more than anything, always and forever.' 
             }
         ]
     };
